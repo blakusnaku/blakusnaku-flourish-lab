@@ -7,12 +7,12 @@ It is the first project inside the `blakusnaku-flourish-lab` and demonstrates ho
 ---
 
 ## 🔗 Live Visualization
-*(Add your Flourish link here once published)*
+[View Live Dashboard Here](https://public.flourish.studio/visualisation/26229368/)
 
 ---
 
 ## 📸 Preview
-![VC Network Screenshot](./screenshot.png)
+![VC Network Screenshot](https://github.com/blakusnaku/blakusnaku-flourish-lab/blob/main/projects/vc-network/screenshot.PNG)
 
 ---
 
@@ -26,7 +26,7 @@ vc-network/
 
 The main processing notes and learning documentation are stored at the repo root:
 
-➡️ `/vc-network-processing.md`
+➡️ [`/vc_network_learning_log.md`](https://github.com/blakusnaku/blakusnaku-flourish-lab/blob/main/notes/vc_network_learning_log.md)
 
 ---
 
@@ -92,7 +92,7 @@ This makes the workflow scalable for larger datasets.
 
 For the full processing workflow, reasoning, and learning breakdown:
 
-➡️ See: `/vc-network-processing.md`
+➡️ See: [`/vc_network_learning_log.md`](https://github.com/blakusnaku/blakusnaku-flourish-lab/blob/main/notes/vc_network_learning_log.md)
 
 ---
 
