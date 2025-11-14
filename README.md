@@ -1,5 +1,5 @@
-# blakusnaku-flourish-lab
-*A growing collection of interactive data visualizations, prototypes, and Flourish experiments.*
+# 🟠 blakusnaku-flourish-lab
+>*A growing collection of interactive data visualizations, prototypes, and Flourish experiments.*
 
 This repository serves as my sandbox and learning hub for mastering **Flourish**, an interactive data visualization tool used widely in journalism, analytics, and business intelligence.
 
