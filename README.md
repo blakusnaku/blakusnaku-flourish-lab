@@ -18,6 +18,9 @@ This repo grows as I grow — every experiment, technique, or breakthrough will 
 ---
 
 ## 📊 Featured Project — VC Relationship Network Map
+[![View in Flourish](https://img.shields.io/badge/Flourish-View%20Interactive-blue)](https://public.flourish.studio/visualisation/26229368/)
+![dashboard](https://github.com/blakusnaku/blakusnaku-flourish-lab/blob/main/projects/vc-network/screenshot.PNG)
+
 
 Located in:  
 **`/projects/vc-network/`**
@@ -43,10 +46,7 @@ It visualizes connections between:
 - How to style Flourish popups using HTML  
 - How to enrich network data via Python autogeneration  
 - How nodes-and-links can tell a business or VC story  
-
-**Live Demo:**  
-[![View in Flourish](https://img.shields.io/badge/Flourish-View%20Interactive-blue)](https://public.flourish.studio/visualisation/26229368/)
-
+ 
 ---
 
 ## 🛠️ Automation — Python → Flourish
