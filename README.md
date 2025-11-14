@@ -19,7 +19,7 @@ This repo grows as I grow — every experiment, technique, or breakthrough will 
 
 ## 📊 Featured Project — VC Relationship Network Map
 [![View in Flourish](https://img.shields.io/badge/Flourish-View%20Interactive-blue)](https://public.flourish.studio/visualisation/26229368/)
-![dashboard](https://github.com/blakusnaku/blakusnaku-flourish-lab/blob/main/projects/vc-network/screenshot.PNG)
+[![dashboard](https://github.com/blakusnaku/blakusnaku-flourish-lab/blob/main/projects/vc-network/screenshot.PNG)](https://public.flourish.studio/visualisation/26229368/)
 
 
 Located in:  
