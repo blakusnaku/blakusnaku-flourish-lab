@@ -1,10 +1,10 @@
+# 🧠 Automated Relationship Intelligence Graph (Python → Flourish)
 ![Python badge](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
 ![Automation badge](https://img.shields.io/badge/Workflow-Automated-success?style=flat)
 ![Graph badge](https://img.shields.io/badge/Graph-Nodes_&_Links-blueviolet?style=flat)
 ![Popup badge](https://img.shields.io/badge/Popups-HTML_Auto--Generated-orange?style=flat)
 ![Flourish badge](https://img.shields.io/badge/Visualization-Flourish_Studio-teal?style=flat)
 
-# 🧠 Automated Relationship Intelligence Graph (Python → Flourish)
 
 A fully automated relationship-mapping system that generates CRM-style entity tables, builds multi-layered graph data, and renders dynamic pop-up cards for interactive network visualization in Flourish.
 
