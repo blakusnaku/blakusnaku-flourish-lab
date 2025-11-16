@@ -1,0 +1,35 @@
+{
+  "theme": {
+    "font_family": "Segoe UI, sans-serif",
+    "width_px": 260,
+    "accent_color": "#FF914D",
+    "text_color": "#FFFFFF",
+    "muted_text_color": "#CCCCCC",
+    "background_color": "transparent"
+  },
+  "person": {
+    "show_current_role": true,
+    "show_primary_sector": true,
+    "show_career_history": true,
+    "max_history_items": 4,
+    "show_connection_summary": true,
+    "max_connections_list": 6
+  },
+  "company": {
+    "show_sector": true,
+    "show_location": true,
+    "show_size": true,
+    "show_tags": true,
+    "show_people_summary": true,
+    "max_current_people": 5,
+    "max_past_people": 3,
+    "show_investor_summary": true,
+    "max_investors": 5,
+    "max_portfolio": 5
+  },
+  "sector": {
+    "show_companies": true,
+    "max_companies": 8,
+    "show_people_count": true
+  }
+}

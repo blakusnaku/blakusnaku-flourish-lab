@@ -1,11 +1,11 @@
 sector_uid,name
-s_b232fe3e81cb,FinTech
-s_535b8256bc12,AI & ML
-s_7297f82fde6f,HealthTech
-s_4280487d5bc0,SaaS B2B
-s_c1f25098c1f0,Climate & Energy
-s_b505276f3860,E-commerce
-s_659ca9d832b3,Developer Tools
-s_85ffca536502,Cybersecurity
-s_dec482435045,Data Infrastructure
-s_2859b65505e2,Consumer Apps
+s_b1d2dcd9ceb4,FinTech
+s_f5d7cdb25f9d,AI & ML
+s_c805ab68cdef,HealthTech
+s_155820138a26,SaaS B2B
+s_cbaaf51b7d91,Climate & Energy
+s_f7820cd248d2,E-commerce
+s_d37f2729f340,Developer Tools
+s_59233df9034b,Cybersecurity
+s_443da02dca37,Data Infrastructure
+s_71c0ead4dab7,Consumer Apps
