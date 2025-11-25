@@ -1,12 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60">
   <defs>
     <linearGradient id="grad-warp-a" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#22C55E"/>
       <stop offset="100%" stop-color="#14B8A6"/>
     </linearGradient>
   </defs>
-  <rect x="10" y="16" width="52" height="28" rx="14" fill="#020617"/>
-  <path d="M14 30 H32 C38 30 42 24 48 24 H60" fill="none" stroke="url(#grad-warp-a)" stroke-width="3" stroke-linecap="round"/>
-  <text x="74" y="26" fill="#020617" font-size="18" font-family="system-ui, sans-serif" font-weight="700">Warp</text>
-  <text x="74" y="44" fill="#6B7280" font-size="14" font-family="system-ui, sans-serif">Analytics</text>
+  <rect x="10" y="16" width="40" height="28" rx="14" fill="#020617"/>
+  <path d="M14 30 H28 C34 30 36 24 42 24 H54" fill="none" stroke="url(#grad-warp-a)" stroke-width="3"/>
 </svg>

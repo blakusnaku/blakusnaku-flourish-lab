@@ -1,7 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 60">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60">
   <circle cx="30" cy="30" r="18" fill="#020617"/>
-  <star />
   <path d="M30 16 L32 23 L40 23 L33 27 L35 34 L30 29 L25 34 L27 27 L20 23 L28 23 Z" fill="#FBBF24"/>
-  <text x="64" y="26" fill="#111827" font-size="18" font-family="system-ui, sans-serif" font-weight="700">Nova</text>
-  <text x="64" y="44" fill="#6B7280" font-size="14" font-family="system-ui, sans-serif">Partners</text>
 </svg>

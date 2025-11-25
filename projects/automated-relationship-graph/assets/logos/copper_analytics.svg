@@ -1,8 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 60">
-  <rect x="10" y="14" width="52" height="32" rx="10" fill="#78350F"/>
-  <path d="M16 38 V26 L24 30 V38" fill="#FDBA74"/>
-  <path d="M28 38 V22 L36 26 V38" fill="#F97316"/>
-  <path d="M40 38 V18 L48 22 V38" fill="#EA580C"/>
-  <text x="74" y="26" fill="#111827" font-size="18" font-family="system-ui, sans-serif" font-weight="700">Copper</text>
-  <text x="74" y="44" fill="#6B7280" font-size="14" font-family="system-ui, sans-serif">Analytics</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60">
+  <rect x="10" y="14" width="40" height="32" rx="10" fill="#78350F"/>
+  <path d="M16 38 V26 L22 30 V38" fill="#FDBA74"/>
+  <path d="M26 38 V22 L32 26 V38" fill="#F97316"/>
+  <path d="M36 38 V18 L42 22 V38" fill="#EA580C"/>
 </svg>

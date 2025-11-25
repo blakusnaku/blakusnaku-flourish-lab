@@ -1,8 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60">
   <circle cx="30" cy="30" r="20" fill="#F97316"/>
   <circle cx="30" cy="30" r="14" fill="#FDBA74"/>
   <line x1="30" y1="16" x2="30" y2="44" stroke="#FEF3C7" stroke-width="2"/>
   <line x1="18" y1="30" x2="42" y2="30" stroke="#FEF3C7" stroke-width="2"/>
-  <text x="64" y="26" fill="#111827" font-size="18" font-family="system-ui, sans-serif" font-weight="700">Citrus</text>
-  <text x="64" y="44" fill="#6B7280" font-size="14" font-family="system-ui, sans-serif">Partners</text>
 </svg>
