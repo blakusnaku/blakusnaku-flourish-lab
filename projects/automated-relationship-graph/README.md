@@ -1,19 +1,8 @@
 # 🧠 Automated Relationship Intelligence Graph (Python → Flourish)
-![Python badge](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
-![Automation badge](https://img.shields.io/badge/Workflow-Automated-success?style=flat)
-![Graph badge](https://img.shields.io/badge/Graph-Nodes_&_Links-blueviolet?style=flat)
-![Popup badge](https://img.shields.io/badge/Popups-HTML_Auto--Generated-orange?style=flat)
-![Flourish badge](https://img.shields.io/badge/Visualization-Flourish_Studio-teal?style=flat)
-
 
 A fully automated relationship-mapping system that generates CRM-style entity tables, builds multi-layered graph data, and renders dynamic pop-up cards for interactive network visualization in Flourish.
 
 This project simulates how tools like **Clay**, **Affinity**, and **Apollo** model people, companies, sectors, and connections — but everything is generated and automated end-to-end with Python.
-
----
-## Flourish Preview
-
-[![Flourish Preview](https://github.com/blakusnaku/blakusnaku-flourish-lab/blob/main/projects/automated-relationship-graph/assets/generated_popup_screenshot.PNG)](https://public.flourish.studio/visualisation/26247845/)
 
 ---
 
@@ -126,34 +115,34 @@ automated-relationship-graph/
 
 ## 🛠 Tech Stack
 
-Python 3.10+  
-Pandas (optional)  
-Flourish Studio  
-HTML/CSS (inline styling)  
+Python 3.10+
+Pandas (optional)
+Flourish Studio
+HTML/CSS (inline styling)
 
 ---
 
 ## 📊 Output Preview
 
-The final visualization includes:  
-• Sector, company, and person nodes  
-• Automatically sized nodes  
-• Fully dynamic pop-ups  
-• Connection paths and typed edges  
-• Hover-based exploration similar to professional intelligence tools  
+The final visualization includes:
+• Sector, company, and person nodes
+• Automatically sized nodes
+• Fully dynamic pop-ups
+• Connection paths and typed edges
+• Hover-based exploration similar to professional intelligence tools
 
 ---
 
 ## 🟠 Author
 
-**JP Malit (@blakusnaku)**  
-Data modeling, pipeline automation, and visualization logic built in Python.  
-Nodes, relationship links, and pop-up HTML cards generated fully automatically.  
+**JP Malit (@blakusnaku)**
+Data modeling, pipeline automation, and visualization logic built in Python.
+Nodes, relationship links, and pop-up HTML cards generated fully automatically.
 
 ---
 
 ## 🧩 Next Steps (Planned)
 
-• Add color themes for different datasets  
-• Extend relationship types (advisor_of, reports_to, partner_with)  
-• Optional: integrate real CRM/API data (HubSpot, Clay, Notion)  
+• Add color themes for different datasets
+• Extend relationship types (advisor_of, reports_to, partner_with)
+• Optional: integrate real CRM/API data (HubSpot, Clay, Notion)

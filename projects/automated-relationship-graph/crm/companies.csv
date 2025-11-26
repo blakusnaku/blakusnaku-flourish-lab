@@ -1,26 +1,26 @@
-company_uid,name,website,sector_uid,hq_location,size_bucket,tags
-c_f77f317ca7a9,Northbeam Systems,https://northbeamsystems.com,s_f5d7cdb25f9d,"Boston, MA",11–50,startup
-c_74d09b684972,Citrus Systems,https://citrussystems.com,s_155820138a26,"New York, NY",1–10,startup
-c_6bba88fd644d,Harbor Capital,https://harborcapital.com,s_71c0ead4dab7,"Austin, TX",1–10,vc
-c_5e6dc1b9a4ab,Signal Partners,https://signalpartners.com,s_155820138a26,"Toronto, CA",1–10,vc
-c_aaa9af50a73f,Signal Systems,https://signalsystems.com,s_443da02dca37,"Sydney, AU",201–500,startup
-c_cea873f11936,Summit Partners,https://summitpartners.com,s_155820138a26,"Boston, MA",1–10,vc
-c_e9f5bb47f7e1,Velox Analytics,https://veloxanalytics.com,s_c805ab68cdef,"London, UK",51–200,startup
-c_f423185de90a,Signal Studios,https://signalstudios.com,s_c805ab68cdef,"London, UK",1–10,startup
-c_cb2a5c699f56,Harbor Analytics,https://harborcapital.com,s_f5d7cdb25f9d,"London, UK",51–200,vc
-c_d2fbafc88386,Atlas Studios,https://atlasstudios.com,s_71c0ead4dab7,"Austin, TX",201–500,startup
-c_e3c54c6dc1e4,Warp Analytics,https://warpanalytics.com,s_443da02dca37,"New York, NY",51–200,startup
-c_bd2d70c6d50a,Nova Partners,https://novapartners.com,s_71c0ead4dab7,"Seattle, WA",1–10,vc
-c_244ade8326f8,Copper Ventures,https://copperventures.com,s_b1d2dcd9ceb4,"Boston, MA",1–10,vc
-c_197c575ec7c7,Warp Systems,https://warpanalytics.com,s_155820138a26,"Boston, MA",201–500,startup
-c_56fd7bd6af2e,Citrus Labs,https://citruslabs.com,s_f7820cd248d2,"London, UK",11–50,startup
-c_3b7dc60613a7,Velox Systems,https://veloxsystems.com,s_cbaaf51b7d91,"New York, NY",11–50,startup
-c_f9aa71046653,Velox Ventures,https://veloxventures.com,s_443da02dca37,"San Francisco, CA",201–500,vc
-c_e743abc65ee9,Atlas Systems,https://atlassystems.com,s_d37f2729f340,"Sydney, AU",11–50,startup
-c_9ee1037a4e0c,Northbeam Ventures,https://northbeamventures.com,s_f7820cd248d2,"Austin, TX",51–200,vc
-c_1bd653f78931,Atlas Capital,https://atlascapital.com,s_d37f2729f340,"Seattle, WA",51–200,vc
-c_a740bbf70e93,Copper Analytics,https://copperanalytics.com,s_155820138a26,"Berlin, DE",201–500,startup
-c_e14064fabe78,Atlas Ventures,https://atlasventures.com,s_c805ab68cdef,"Seattle, WA",51–200,vc
-c_89c63acce964,Harbor Partners,https://harborpartners.com,s_71c0ead4dab7,"Berlin, DE",51–200,vc
-c_c595afccae6e,Citrus Partners,https://citruspartners.com,s_155820138a26,Singapore,1–10,vc
-c_6957f9536724,Warp Ventures,https://warpventures.com,s_b1d2dcd9ceb4,"San Francisco, CA",201–500,vc
+company_uid,name,website,sector_uid,hq_location,size_bucket,tags,logo
+c_f77f317ca7a9,Northbeam Systems,https://northbeamsystems.com,s_f5d7cdb25f9d,"Boston, MA",11–50,startup,https://raw.githubusercontent.com/blakusnaku/blakusnaku-flourish-lab/f5a2944c81b2aff9bf029dd0409b9478f00a6537/projects/automated-relationship-graph/assets/logos/northbeam_systems.svg
+c_74d09b684972,Citrus Systems,https://citrussystems.com,s_155820138a26,"New York, NY",1–10,startup,https://raw.githubusercontent.com/blakusnaku/blakusnaku-flourish-lab/f5a2944c81b2aff9bf029dd0409b9478f00a6537/projects/automated-relationship-graph/assets/logos/citrus_systems.svg
+c_6bba88fd644d,Harbor Capital,https://harborcapital.com,s_71c0ead4dab7,"Austin, TX",1–10,vc,https://raw.githubusercontent.com/blakusnaku/blakusnaku-flourish-lab/f5a2944c81b2aff9bf029dd0409b9478f00a6537/projects/automated-relationship-graph/assets/logos/harbor_capital.svg
+c_5e6dc1b9a4ab,Signal Partners,https://signalpartners.com,s_155820138a26,"Toronto, CA",1–10,vc,https://raw.githubusercontent.com/blakusnaku/blakusnaku-flourish-lab/f5a2944c81b2aff9bf029dd0409b9478f00a6537/projects/automated-relationship-graph/assets/logos/signal_partners.svg
+c_aaa9af50a73f,Signal Systems,https://signalsystems.com,s_443da02dca37,"Sydney, AU",201–500,startup,https://raw.githubusercontent.com/blakusnaku/blakusnaku-flourish-lab/f5a2944c81b2aff9bf029dd0409b9478f00a6537/projects/automated-relationship-graph/assets/logos/signal_systems.svg
+c_cea873f11936,Summit Partners,https://summitpartners.com,s_155820138a26,"Boston, MA",1–10,vc,https://raw.githubusercontent.com/blakusnaku/blakusnaku-flourish-lab/f5a2944c81b2aff9bf029dd0409b9478f00a6537/projects/automated-relationship-graph/assets/logos/summit_partners.svg
+c_e9f5bb47f7e1,Velox Analytics,https://veloxanalytics.com,s_c805ab68cdef,"London, UK",51–200,startup,https://raw.githubusercontent.com/blakusnaku/blakusnaku-flourish-lab/f5a2944c81b2aff9bf029dd0409b9478f00a6537/projects/automated-relationship-graph/assets/logos/velox_analytics.svg
+c_f423185de90a,Signal Studios,https://signalstudios.com,s_c805ab68cdef,"London, UK",1–10,startup,https://raw.githubusercontent.com/blakusnaku/blakusnaku-flourish-lab/f5a2944c81b2aff9bf029dd0409b9478f00a6537/projects/automated-relationship-graph/assets/logos/signal_stuidos.svg
+c_cb2a5c699f56,Harbor Analytics,https://harborcapital.com,s_f5d7cdb25f9d,"London, UK",51–200,vc,https://raw.githubusercontent.com/blakusnaku/blakusnaku-flourish-lab/f5a2944c81b2aff9bf029dd0409b9478f00a6537/projects/automated-relationship-graph/assets/logos/harbor_analytics.svg
+c_d2fbafc88386,Atlas Studios,https://atlasstudios.com,s_71c0ead4dab7,"Austin, TX",201–500,startup,https://raw.githubusercontent.com/blakusnaku/blakusnaku-flourish-lab/f5a2944c81b2aff9bf029dd0409b9478f00a6537/projects/automated-relationship-graph/assets/logos/atlas_studios.svg
+c_e3c54c6dc1e4,Warp Analytics,https://warpanalytics.com,s_443da02dca37,"New York, NY",51–200,startup,https://raw.githubusercontent.com/blakusnaku/blakusnaku-flourish-lab/f5a2944c81b2aff9bf029dd0409b9478f00a6537/projects/automated-relationship-graph/assets/logos/warp_analytics.svg
+c_bd2d70c6d50a,Nova Partners,https://novapartners.com,s_71c0ead4dab7,"Seattle, WA",1–10,vc,https://raw.githubusercontent.com/blakusnaku/blakusnaku-flourish-lab/f5a2944c81b2aff9bf029dd0409b9478f00a6537/projects/automated-relationship-graph/assets/logos/nova_partners.svg
+c_244ade8326f8,Copper Ventures,https://copperventures.com,s_b1d2dcd9ceb4,"Boston, MA",1–10,vc,https://raw.githubusercontent.com/blakusnaku/blakusnaku-flourish-lab/f5a2944c81b2aff9bf029dd0409b9478f00a6537/projects/automated-relationship-graph/assets/logos/copper_ventures.svg
+c_197c575ec7c7,Warp Systems,https://warpanalytics.com,s_155820138a26,"Boston, MA",201–500,startup,https://raw.githubusercontent.com/blakusnaku/blakusnaku-flourish-lab/f5a2944c81b2aff9bf029dd0409b9478f00a6537/projects/automated-relationship-graph/assets/logos/warp_systems.svg
+c_56fd7bd6af2e,Citrus Labs,https://citruslabs.com,s_f7820cd248d2,"London, UK",11–50,startup,https://raw.githubusercontent.com/blakusnaku/blakusnaku-flourish-lab/f5a2944c81b2aff9bf029dd0409b9478f00a6537/projects/automated-relationship-graph/assets/logos/citrus_labs.svg
+c_3b7dc60613a7,Velox Systems,https://veloxsystems.com,s_cbaaf51b7d91,"New York, NY",11–50,startup,https://raw.githubusercontent.com/blakusnaku/blakusnaku-flourish-lab/f5a2944c81b2aff9bf029dd0409b9478f00a6537/projects/automated-relationship-graph/assets/logos/velox_systems.svg
+c_f9aa71046653,Velox Ventures,https://veloxventures.com,s_443da02dca37,"San Francisco, CA",201–500,vc,https://raw.githubusercontent.com/blakusnaku/blakusnaku-flourish-lab/f5a2944c81b2aff9bf029dd0409b9478f00a6537/projects/automated-relationship-graph/assets/logos/velox_ventures.svg
+c_e743abc65ee9,Atlas Systems,https://atlassystems.com,s_d37f2729f340,"Sydney, AU",11–50,startup,https://raw.githubusercontent.com/blakusnaku/blakusnaku-flourish-lab/f5a2944c81b2aff9bf029dd0409b9478f00a6537/projects/automated-relationship-graph/assets/logos/atlas_systems.svg
+c_9ee1037a4e0c,Northbeam Ventures,https://northbeamventures.com,s_f7820cd248d2,"Austin, TX",51–200,vc,https://raw.githubusercontent.com/blakusnaku/blakusnaku-flourish-lab/f5a2944c81b2aff9bf029dd0409b9478f00a6537/projects/automated-relationship-graph/assets/logos/northbeam_ventures.svg
+c_1bd653f78931,Atlas Capital,https://atlascapital.com,s_d37f2729f340,"Seattle, WA",51–200,vc,https://raw.githubusercontent.com/blakusnaku/blakusnaku-flourish-lab/f5a2944c81b2aff9bf029dd0409b9478f00a6537/projects/automated-relationship-graph/assets/logos/atlas_capital.svg
+c_a740bbf70e93,Copper Analytics,https://copperanalytics.com,s_155820138a26,"Berlin, DE",201–500,startup,https://raw.githubusercontent.com/blakusnaku/blakusnaku-flourish-lab/f5a2944c81b2aff9bf029dd0409b9478f00a6537/projects/automated-relationship-graph/assets/logos/copper_analytics.svg
+c_e14064fabe78,Atlas Ventures,https://atlasventures.com,s_c805ab68cdef,"Seattle, WA",51–200,vc,https://raw.githubusercontent.com/blakusnaku/blakusnaku-flourish-lab/f5a2944c81b2aff9bf029dd0409b9478f00a6537/projects/automated-relationship-graph/assets/logos/atlas_ventures.svg
+c_89c63acce964,Harbor Partners,https://harborpartners.com,s_71c0ead4dab7,"Berlin, DE",51–200,vc,https://raw.githubusercontent.com/blakusnaku/blakusnaku-flourish-lab/f5a2944c81b2aff9bf029dd0409b9478f00a6537/projects/automated-relationship-graph/assets/logos/harbor_partners.svg
+c_c595afccae6e,Citrus Partners,https://citruspartners.com,s_155820138a26,Singapore,1–10,vc,https://raw.githubusercontent.com/blakusnaku/blakusnaku-flourish-lab/f5a2944c81b2aff9bf029dd0409b9478f00a6537/projects/automated-relationship-graph/assets/logos/citrus_partners.svg
+c_6957f9536724,Warp Ventures,https://warpventures.com,s_b1d2dcd9ceb4,"San Francisco, CA",201–500,vc,https://raw.githubusercontent.com/blakusnaku/blakusnaku-flourish-lab/f5a2944c81b2aff9bf029dd0409b9478f00a6537/projects/automated-relationship-graph/assets/logos/warp_ventures.svg

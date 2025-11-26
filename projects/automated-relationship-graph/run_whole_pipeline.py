@@ -4,7 +4,7 @@ from scripts.build_popups import run_popup_engine
 
 
 def run_whole_pipeline():
-    run_generate_crm_csvs()
+    #run_generate_crm_csvs()
     run_build_flourish_export()
     run_popup_engine()
 
